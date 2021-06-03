@@ -2,36 +2,37 @@
 Group oriented towards the search, extraction, computation, calculation, simulation of all information on the subject of biostasis. The aim is to accelerate its development in a public but controlled way.
 
 ## Rules of the group
--All work is public licensed.
 
--The repository is private to manage member input.
+- All work is public licensed.
 
--Misuse of the code for unethical purposes is not permitted.
+- The repository is private to manage member input.
 
--The group is composed of sub-groups.
+- Misuse of the code for unethical purposes is not permitted.
 
--The sub-groups are divided into Manager and the rest.
+- The group is composed of sub-groups.
 
--The Manager group consists of two founding members.
+- The sub-groups are divided into Manager and the rest.
 
--The management group ensures the good use and correct practices.
+- The Manager group consists of two founding members.
 
--The rest of the sub-groups can vary in the number of their members from one to 10 members.
+- The management group ensures the good use and correct practices.
 
--Each sub-group applies only one task.
+- The rest of the sub-groups can vary in the number of their members from one to 10 members.
 
--The sub-groups will be listed in the README.md with their members in order to organise themselves.
+- Each sub-group applies only one task.
 
--Each task will apply to one topic of biostasis.
+- The sub-groups will be listed in the README.md with their members in order to organise themselves.
 
--The aim is to use computation to accelerate the advancement of the field.
+- Each task will apply to one topic of biostasis.
 
--Discussion groups can be held to manage the direction of research.
+- The aim is to use computation to accelerate the advancement of the field.
 
--Once the task has been completed, it can be taken out of the Group and made public.
+- Discussion groups can be held to manage the direction of research.
 
-###Sub-group Manager
+- Once the task has been completed, it can be taken out of the Group and made public.
+
+##Sub-group Manager
 
 - Marco Baturan
-- 
+
 - Roman PlusPlus
