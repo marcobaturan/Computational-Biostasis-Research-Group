@@ -11,7 +11,9 @@ Webscrap topic model for case repor analysis on cryonics/biostasis it is a tool 
 
 ## Gensim reference
 
-@inproceedings{rehurek_lrec,
+@inproceedings{
+
+        rehurek_lrec,
 
         title = {{Software Framework for Topic Modelling with Large Corpora}},
         
