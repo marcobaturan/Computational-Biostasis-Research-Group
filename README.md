@@ -5,7 +5,7 @@ Group oriented towards the search, extraction, computation, calculation, simulat
 
 - This schema can evolve in the future.
  
-![mind map of CBRG](https://raw.githubusercontent.com/marcobaturan/Computational-Biostasis-Research-Group/main/mindmap_CBRG.png?token=ABVYCAMCR7MTD6USIRO3QVLAXXK24)
+![mind map of CBRG](https://github.com/marcobaturan/Computational-Biostasis-Research-Group/blob/main/mindmap_CBRG.png)
 
 ## Rules of the group
 
