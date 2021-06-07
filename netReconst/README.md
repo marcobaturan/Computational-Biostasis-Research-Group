@@ -20,6 +20,9 @@ The draft is in [Google Docs](https://docs.google.com/document/d/1tmw-pQONxzq4_X
 - A script to generate damaged images (and corresponding masks). Located in [this very repo](https://github.com/RomanPlusPlus/netReconst/tree/main/tools/damaged_images_generator)
 - A comparison table of good inpaining projects. Located in [Google Sheets](https://docs.google.com/spreadsheets/d/1LrYacRVBMC8ZzsBwXMXFWhlynn1z5kV-rNX372nbdYE/edit#gid=0)
 
+# Source:
+[netReconst](https://github.com/RomanPlusPlus/netReconst)
+
 # Relevant works
 
 * A list of some relevant articles: https://github.com/geekyutao/Image-Inpainting
