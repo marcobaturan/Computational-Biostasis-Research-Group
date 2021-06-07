@@ -1,6 +1,11 @@
 # Computational Biostasis Research Group
 Group oriented towards the search, extraction, computation, calculation, simulation of all information on the subject of biostasis. The aim is to accelerate its development in a public but controlled way.
 
+## Mind map of the porject
+
+- This schema can evolve in the future.
+![mind map of CBRG](https://raw.githubusercontent.com/marcobaturan/Computational-Biostasis-Research-Group/main/mindmap_CBRG.png?token=ABVYCAMCR7MTD6USIRO3QVLAXXK24)
+
 ## Rules of the group
 
 - All work is public licensed.
