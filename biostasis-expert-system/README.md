@@ -1,4 +1,4 @@
-#Biostasis Expert System
+# Biostasis Expert System
 
 Extraction and Basic Expert
 
@@ -19,6 +19,6 @@ Resources:
 
 1º extraction 2º ES
 
-##Resources:
-[Amzi!](https://www.amzi.com/)
-[SII-Prolog](https://www.swi-prolog.org/)
+## Resources:
+- [Amzi!](https://www.amzi.com/)
+- [SII-Prolog](https://www.swi-prolog.org/)
