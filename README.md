@@ -37,8 +37,22 @@ Group oriented towards the search, extraction, computation, calculation, simulat
 
 - Once the task has been completed, it can be taken out of the Group and made public.
 
-##Sub-group Manager
+## Sub-group Manager
+- Marco Baturan
+- Roman PlusPlus
 
+## Sub-group netReconst
+- Marco Baturan
+- Roman PlusPlus
+
+## Sub-group SST Simulation
 - Marco Baturan
 
-- Roman PlusPlus
+## Sub-group Biostasis Expert System
+- Marco Baturan
+
+## Sub-group heta_diffusion_experiment_and_simulation
+- Marco Baturan
+
+## Sub-group web-s topic model for case repor analysis
+- Marco Baturan
