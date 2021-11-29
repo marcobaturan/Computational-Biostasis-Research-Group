@@ -48,6 +48,9 @@ Group oriented towards the search, extraction, computation, calculation, simulat
 ## Sub-group SST Simulation
 - Marco Baturan
 
+## Sub-group biostasis advisor
+- Marco Baturan
+
 ## Sub-group Biostasis Expert System
 - Marco Baturan
 
